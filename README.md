@@ -1,5 +1,5 @@
 # ProyectoProgramacionPythonEPN
-Escuela Politécnica Nacional 
+Escuela Politécnica Nacional \n
 Maestría en Sistemas de Información 
 Mencion Inteligencia de Negocios y Procesamiento de Datos Masivos
 Proyecto Final Programacion Python
