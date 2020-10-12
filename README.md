@@ -1,4 +1,4 @@
-# ProyectoProgramacionPythonEPN
+# Proyecto Programacion Python EPN
 Escuela Politécnica Nacional
 
 Maestría en Sistemas de Información 
